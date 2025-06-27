@@ -9,6 +9,11 @@ A lightweight C++ console application that calculates and helps reduce your dail
 - 📈 Tracks daily/weekly progress
 - 🛠️ Built with clean OOP architecture
 
+## 📸 Sample Output
+![map](![carbonGreen](https://github.com/user-attachments/assets/b43fc31f-f080-424c-9f94-8cb265b9e334)
+)
+
+
 ## 🚀 Quick Start
 ```bash
 g++ CarbonGreen.cpp -o CarbonGreen
